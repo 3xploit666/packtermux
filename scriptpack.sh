@@ -15,7 +15,7 @@ figlet nmap
 echo "${VERDE}[+][+][+][+][${NC} Instalando nmap ${VERDE}[+][+][+][+]${NC}"
 apt install -y nmap
 
-figlet aircrack-ng
+figlet aircrack
 echo "${VERDE}[+][+][+][+][${NC} Instalando aircrack-ng${VERDE}[+][+][+][+]${NC}"
 apt install -y aircrack-ng
 
